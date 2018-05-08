@@ -33,15 +33,15 @@
           <div class="collapse navbar-collapse justify-content-end" id="nav-content">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                <a class="nav-link active" href=".../...">Home</a>
+                <a class="nav-link active" href="http://steveandbarbaraboda.com/try/index.php">Home</a>
                 <li class="nav-item">
-                  <a class="nav-link" href=".../rsvp.php">RSVP/S.R.C</a>
+                  <a class="nav-link" href=".../try/rsvp.php">RSVP/S.R.C</a>
                 </li>
                 <li class="nav-item">
                   <!--<a class="nav-link" href=".../about.php">About/Sobre</a>
                 </li>-->
                 <li class="nav-item">
-                  <a class="nav-link" href=".../map.php">Map/Mapa</a>
+                  <a class="nav-link" href=".../try/map.php">Map/Mapa</a>
                 </li>
                 <!--<li class="nav-item">
                   <a class="nav-link" href=".../gifts.php">Gifts/Regalos</a>

@@ -1,0 +1,74 @@
+@import "testimonials.css";
+@import "rsvp.css";
+@import "count.css";
+@import "gifts.css";
+
+
+
+nav{
+  font-family: Tangerine;
+  font-size:30px;
+  background:#9D8C77;
+  border-bottom: black solid 2px;
+}
+
+.navbar-brand{
+  font-size: 30px;
+}
+
+#main-footer{
+  font-size: 15px;
+  background-color: black;
+  width:100%;
+  text-align:left;
+  margin:0;
+  padding:0;
+
+
+}
+
+footer{
+  background-color: black;
+  margin:auto;
+  position:fixed;
+  bottom:0;
+  width:100%;
+  font-family: sans-serif;
+  color:white;
+  text-decoration: none;
+
+}
+
+body{
+  padding-top: 150px;
+  background-image: url("../img/1/brick.jpg");
+  background-size: cover;
+}
+
+/* Sign up sheet */
+
+.signup-form{
+  width:400px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+.signup-form input{
+  width:90%;
+  height:40px;
+  padding: 0px 5%;
+  border: none;
+  background-color: #fff;
+  font-family: Tangerine;
+  font-size:25px;
+  color: #111;
+  line-height: 40px;
+}
+
+#jumbo {
+    background-color:transparent !important;
+}
+
+.btn {
+  color: #ffff;
+}

@@ -1,0 +1,26 @@
+.countdown-wrap {
+  width: 480px;
+  height: 480px;
+  position: relative;
+  background:transparent url(".../img/1/Heart.svg.png") no-repeat center center /contain;
+
+}
+#countdown {
+  position:absolute;
+  width:100%;
+  height:100%;
+  top:0;
+  left:0;
+  display: table;
+
+}
+
+#countdown p {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  color:#000;
+  font-family: Tangerine;
+  font-size: 22px;
+
+}

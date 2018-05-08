@@ -1,0 +1,64 @@
+@import "testimonials.css";
+@import "rsvp.css";
+
+nav{
+  font-family: Tangerine;
+  font-size:25px;
+  background:#9D8C77;
+}
+
+.navbar-brand{
+  font-size: 30px;
+}
+
+#main-footer{
+  font-size: 15px;
+  background-color: black;
+  width:100%;
+  text-align:left;
+  margin:0;
+  padding:0;
+
+}
+
+footer{
+  background-color: black;
+  margin:auto;
+  position:fixed;
+  bottom:0;
+  width:100%;
+  font-family: sans-serif;
+}
+
+body{
+  padding-top: 100px;
+  background-image: url("../img/1/brick.jpg");
+  background-size: cover;
+}
+
+.countdown-wrap {
+  width: 100%;
+  height: 480px;
+  position: relative;
+  background:transparent url("../img/1/Heart.svg.png") no-repeat center center /contain;
+
+
+}
+
+#countdown {
+  position:relative;
+  width:100%;
+  height:100%;
+  top:0;
+  left:0;
+  display: table;
+}
+
+#countdown p {
+  display: table-cell;
+  vertical-align:middle;
+  text-align: center;
+  color:#000;
+  font-family: Tangerine;
+  font-size: 22px;
+  }

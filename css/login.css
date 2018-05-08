@@ -1,0 +1,22 @@
+
+/* My Code*/
+
+/* Sign up sheet */
+
+.signup-form{
+  width:400px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+.signup-form input{
+  width:90%;
+  height:40px;
+  padding: 0px 5%;
+  border: none;
+  background-color: #fff;
+  font-family: Tangerine;
+  font-size:25px;
+  color: #111;
+  line-height: 40px;
+}
